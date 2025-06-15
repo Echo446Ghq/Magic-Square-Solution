@@ -1,6 +1,6 @@
 # Liber Primus Magic Square: Complete Cryptanalytic Solution
 
-**Date:** June 15, 2025  
+**Date:** June 16, 2025  
 **Status:** SOLVED - PRIMARY LAYER  
 **Methodology:** Multi-phase systematic analysis with self-referential discovery  
 **Classification:** Strategic Cryptographic Analysis
@@ -89,14 +89,19 @@ Recurring value 626 suggests coordinate interpretation:
 - **Decimal:** 6.26626°N, 6.26626°E
 - **Location:** Near Warri, Nigeria (Niger Delta region)
 - **Mathematical Properties:** 626 = 2 × 313 (semiprime)
-- **Frequency:** Appears 4 times in matrix
+- **Frequency:** Appears 2 times in matrix (positions [2,0] and [2,4])
 
 ### 3.4 Layer 4: Digital Root Analysis
 Frequency distribution of digital roots:
 - Root 6: 6 occurrences (highest frequency)
 - Root 8: 5 occurrences
 - Root 2: 4 occurrences
-- Other roots: 2 occurrences each
+- Root 1: 2 occurrences
+- Root 3: 2 occurrences
+- Root 5: 2 occurrences
+- Root 7: 2 occurrences
+- Root 9: 2 occurrences
+- Root 4: 0 occurrences (not present)
 
 **Pattern Significance:** Digital root 6 dominance aligns with coordinate reference.
 
@@ -223,11 +228,11 @@ Comprehensive testing protocol:
 - Potential key for other Liber Primus pages
 
 ### 7.2 Geographic Significance
-Coordinate 626.626 (6°26'N, 6°26'E) references:
+Coordinate 626.626 (6.26626°N, 6.26626°E) references:
 - **Location:** Niger Delta, Nigeria
 - **Significance:** Oil-rich region, strategic location
 - **Mathematical:** Semiprime 626 = 2 × 313
-- **Pattern:** Appears 4 times in matrix structure
+- **Pattern:** Appears 2 times in matrix structure
 
 ### 7.3 Cryptographic Applications
 Testing 'rl)lr' as cipher key on other Liber Primus content:
@@ -348,7 +353,7 @@ Position [4]: [966, 278, 312, 1311, 434]
 - **Decimal:** 6.26626°N, 6.26626°E
 - **Location:** Niger Delta region, Nigeria
 - **Mathematical basis:** Recurring value 626 (2 × 313)
-- **Frequency:** 4 occurrences in matrix
+- **Frequency:** 2 occurrences in matrix
 
 **Secondary Pattern:**
 - **Pattern:** '8,rr,8'
